@@ -3,7 +3,7 @@
 #### Web Developer
 
 
-I’m a Front End Web developer who is passionate about  100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. 
+I’m a Front End Web developer. I am very passionate about  100% client satisfaction. I have strong and barely passion for learning and sharing my knowledge with others as openly as possible. I like to solve real-world problems. I am skillful, artistic, and goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication. 
 
 Skills: REACT / JS / HTML / CSS/  Tailwind / Bootstrap / NodeJs /MongoDB/ ExpressJs.
 
